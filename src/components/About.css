@@ -1,0 +1,19 @@
+.text {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+p {
+    color: white;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 0px;
+    width: 736px;
+    text-align: center;
+    line-height: 32px;
+    
+}

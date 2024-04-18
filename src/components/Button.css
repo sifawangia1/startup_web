@@ -1,0 +1,22 @@
+#button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 58px;
+}
+
+button {
+    background-color: #482BE7;
+    /* font: "DM Sans"; */
+    color: white;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 100px;
+    width: 230px;
+    height: 60px;
+
+
+}
